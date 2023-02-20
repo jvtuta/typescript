@@ -1,3 +1,3 @@
 export default function (): void {
-  console.log('oi');
+  console.log('oiiii');
 }
